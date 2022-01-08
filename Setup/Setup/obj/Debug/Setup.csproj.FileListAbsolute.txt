@@ -1,0 +1,16 @@
+D:\Visual Studio\Setup\Setup\bin\Debug\Setup.exe.config
+D:\Visual Studio\Setup\Setup\bin\Debug\Setup.exe
+D:\Visual Studio\Setup\Setup\bin\Debug\Setup.pdb
+D:\Visual Studio\Setup\Setup\obj\Debug\Setup.csprojAssemblyReference.cache
+D:\Visual Studio\Setup\Setup\obj\Debug\Setup.language-ru.resources
+D:\Visual Studio\Setup\Setup\obj\Debug\Setup.language.resources
+D:\Visual Studio\Setup\Setup\obj\Debug\Setup.Properties.Resources.resources
+D:\Visual Studio\Setup\Setup\obj\Debug\Setup.setup.resources
+D:\Visual Studio\Setup\Setup\obj\Debug\Setup.csproj.GenerateResource.cache
+D:\Visual Studio\Setup\Setup\obj\Debug\Setup.exe
+D:\Visual Studio\Setup\Setup\obj\Debug\Setup.pdb
+D:\Visual Studio\Setup\Setup\obj\Debug\Setup.language-en.resources
+D:\Visual Studio\Setup\Setup\obj\Debug\Setup.unpacking.resources
+D:\Visual Studio\Setup\Setup\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Visual Studio\Setup\Setup\obj\Debug\Setup.csproj.ResolveComReference.cache
+D:\Visual Studio\Setup\Setup\obj\Debug\Setup.done.resources
